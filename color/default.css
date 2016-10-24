@@ -1,0 +1,39 @@
+
+a,.tp-caption a.btn:hover {
+	color: #26303D;
+}
+.top-nav-collapse {
+	background: #25375E;
+}
+
+.navbar-custom ul.nav ul.dropdown-menu li a:hover {
+	color: #25375E;
+}
+
+.owl-theme .owl-controls .owl-page.active span,
+.owl-theme .owl-controls.clickable .owl-page:hover span {
+    background-color: #25375E;
+}
+
+.widget-avatar .avatar:hover {
+    border: 5px solid #67b0d1;
+}
+
+.bg-skin {
+	background: #25375E;
+}
+
+.small-darker{
+  color :white;
+}
+
+
+footer {
+    background-color: #25375E;
+}
+
+.btn-skin {
+  color: #fff;
+  background-color: #25375E;
+  border-color: #25375E;
+}
